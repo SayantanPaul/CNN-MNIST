@@ -10,4 +10,11 @@ A lesser accuracy of 99.29% was obtained on training on 20000 data on the same s
 
 If you want an faster outcome feel free to rum with 20000 data instead of all 60000.
 
+To run this file. download the repo and enter the following in the terminal,
+
+```
+$python3 mnist.py
+```
+To run this file offline, download the MNIST dataset from "http://yann.lecun.com/exdb/mnist/" and keep the files in a folder MNIST_data at the same folder as input_data.py and mnist.py which is set as the default path.
+
 Best of luck!
